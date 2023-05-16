@@ -15,6 +15,17 @@ The `BankSystem` class contains the main entry point `Main` method, which intera
 
 Overall, this code implements a basic banking system with support for different types of transactions, account management, and transaction history tracking.
 
+Following are the features that are available in this program:
+    
+    1. Withdraw
+    2. Deposit
+    3. Transfer
+    4. Print
+    5. Add New Account
+    6. Find Account
+    7. Print Transaction History
+    8. Perform Rollback
+    9. Quit
 ## Deployment
 
 To deploy this code, follow the steps below:
